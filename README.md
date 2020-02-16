@@ -9,7 +9,6 @@ Ce Repository a pour objectif de lister et centraliser tous mes repositories, qu
 | [Dronizone](https://github.com/AlexBolot/Dronizone)                     | :star::star::star: | Java              | :white_check_mark: | Polytech          |
 | [Explore-ton-musee](https://github.com/AlexBolot/Explore-ton-musee)     |    :star::star:    | Flutter           | :white_check_mark: | Temps libre       |
 | [IslandProject](https://github.com/AlexBolot/IslandProject)             |    :star::star:    | Java              | :white_check_mark: | Polytech          |
-| [IslandProject](https://github.com/AlexBolot/IslandProject)             |    :star::star:    | Java              | :white_check_mark: | Polytech          |
 | [Polygame](https://github.com/AlexBolot/Polygame)                       |    :star::star:    | Flutter + Angular |       :lock:       | Stage 3A          |
 | [Takenoko](https://github.com/AlexBolot/Takenoko)                       |       :star:       | Java              | :white_check_mark: | Polytech          |
 | [OnlineCV](https://github.com/AlexBolot/OnlineCV)                       |       :star:       | Angular           |       :lock:       | Temps libre       |
