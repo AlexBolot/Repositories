@@ -15,7 +15,6 @@ Ce Repository a pour objectif de lister et centraliser tous mes repositories, qu
 | [PS7-SDK](https://github.com/AlexBolot/PS7-SDK)                         |       :star:       | Java              | :white_check_mark: | Polytech          |
 | [FlutterStash](https://github.com/AlexBolot/FlutterStash)               |       :star:       | Flutter           | :white_check_mark: | Temps libre       |
 | [MoneyTracker](https://github.com/AlexBolot/MoneyTracker)               |       :star:       | Flutter           | :white_check_mark: | Temps libre       |
-| [MoneyTracker](https://github.com/AlexBolot/MoneyTracker)               |       :star:       | Flutter           | :white_check_mark: | Temps libre       |
 | [CodingUtils](https://github.com/AlexBolot/CodingUtils)                 |       :star:       | Java              | :white_check_mark: | Temps libre       |
 | [MicroServices](https://github.com/AlexBolot/MicroServices)             |       :star:       | .net core         |       :lock:       | Temps libre       |
 | [RPG-Maker](https://github.com/AlexBolot/RPG-Maker)                     |       :star:       | Java              | :white_check_mark: | IUT Nice Sophia   |
