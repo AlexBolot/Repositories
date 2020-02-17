@@ -3,7 +3,6 @@
 Ce Repository a pour objectif de lister et centraliser tous mes repositories, qu'ils soient publics ou privés
 
 
-
 | Nom                                                                     |     Importance     | Langage           |    Public/Privé    | Contexte          |
 | ----------------------------------------------------------------------- |:------------------:| ----------------- |:------------------:|:----------------- |
 | [Dronizone](https://github.com/AlexBolot/Dronizone)                     | :star::star::star: | Java              | :white_check_mark: | Polytech          |
@@ -49,3 +48,48 @@ Ce Repository a pour objectif de lister et centraliser tous mes repositories, qu
 | [SecurityPrivacyLabs](https://github.com/AlexBolot/SecurityPrivacyLabs) |                    | Java              | :white_check_mark: | Polytech          |
 | [ProjetRIMEL](https://github.com/AlexBolot/ProjetRIMEL)                 |                    | Not relevant      | :white_check_mark: | Polytech          |
 | [IHM-Projet-Mobilite](https://github.com/AlexBolot/IHM-Projet-Mobilite) |                    | Flutter           | :white_check_mark: | Polytech          |
+    
+
+# Dronizone
+<i class="fa fa-clock-o"></i> 8 semaines
+<i class="fa fa-group"></i> 4 personnes
+
+Projet micro-services de livraison de colis par drones
+- Gestion des commandes, des colis et des drones
+- Monitoring du comportement et utilisation de bus de messages
+
+> Java 8, Java Spring, Kafka, MicroServices
+
+<br>
+
+# Polymuseum
+<i class="fa fa-clock-o"></i> 8 semaines
+<i class="fa fa-group"></i> 4 personnes
+
+Une application mobile dédiée au musée du sport
+- Elle intègre des activités de groupe entre différents utilisateurs mobiles
+- Nous mettons à disposition un SDK dédié pour ajouter des plugins à l’application
+
+> Flutter, Application mobile, NoSQL, Firebase
+ 
+# Island Explorer
+<i class="fa fa-clock-o"></i> 8 semaines
+<i class="fa fa-group"></i> 4 personnes
+
+Découverte et exploration d’île générée procéduralement
+- Intelligence d’un Drone qui survole l’île pour trouver les biomes et les ressources
+- Intelligence d’une équipe d’explorateurs qui vont aller récolter les ressources
+- Nombre d’action limité et contrats à respecter
+
+> Java 8, Design Pattern
+
+# PhotoBooth
+<i class="fa fa-clock-o"></i> 4 semaines
+<i class="fa fa-user"></i> 1 personne
+
+Application de partage d’album photos entre utilisateurs
+- Publiée et disponible sur le Google PlayStore
+- Utilise un stockage en ligne pour un partage rapide des photos
+- Photos sauvegardées avec plusieurs qualités pour un chargement rapide et progressif
+
+> Flutter, Application mobile, NoSQL, Firebase
