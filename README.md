@@ -68,7 +68,7 @@ Projet micro-services de livraison de colis par drones
 
 Une application mobile dédiée au musée du sport
 - Elle intègre des activités de groupe entre différents utilisateurs mobiles
-- Nous mettons à disposition un SDK dédié pour ajouter des plugins à l’application
+- Nous mettons à disposition un SDK dédié pour ajouter des plugins à l'application
 
 > Flutter, Application mobile, NoSQL, Firebase
  
@@ -76,10 +76,10 @@ Une application mobile dédiée au musée du sport
 <i class="fa fa-clock-o"></i> 8 semaines
 <i class="fa fa-group"></i> 4 personnes
 
-Découverte et exploration d’île générée procéduralement
-- Intelligence d’un Drone qui survole l’île pour trouver les biomes et les ressources
-- Intelligence d’une équipe d’explorateurs qui vont aller récolter les ressources
-- Nombre d’action limité et contrats à respecter
+Découverte et exploration d'île générée procéduralement
+- Intelligence d'un Drone qui survole l'île pour trouver les biomes et les ressources
+- Intelligence d'une équipe d'explorateurs qui vont aller récolter les ressources
+- Nombre d'action limité et contrats à respecter
 
 > Java 8, Design Pattern
 
@@ -87,9 +87,58 @@ Découverte et exploration d’île générée procéduralement
 <i class="fa fa-clock-o"></i> 4 semaines
 <i class="fa fa-user"></i> 1 personne
 
-Application de partage d’album photos entre utilisateurs
+Application de partage d'album photos entre utilisateurs
 - Publiée et disponible sur le Google PlayStore
 - Utilise un stockage en ligne pour un partage rapide des photos
 - Photos sauvegardées avec plusieurs qualités pour un chargement rapide et progressif
 
 > Flutter, Application mobile, NoSQL, Firebase
+
+# Takenoko
+<i class="fa fa-clock-o"></i> 8 semaines
+<i class="fa fa-user"></i> 4 personne
+
+Implémentation d'un jeu de société.
+- Jeu joué automatiquement par des intelligences artificielles
+- Plusieurs catégories d'intelligences avec des stratégies différentes
+
+> Java 8, Design Pattern
+
+# The Polygame
+<i class="fa fa-clock-o"></i> 8 semaines
+<i class="fa fa-user"></i> 4 personne
+
+Une application mobile pour une meilleure intégration des nouveaux élèves au sein de Polytech.',
+- Chaque élève se voit attribué d'autres élèves en tant qu'objectif et un gage (simple) à leur faire faire
+- L'élève doit alors trouver sa cible, engager la conversation, etc…
+
+Cela pousse les nouveaux arrivants à faire de nouvelles connaissances.
+
+> Flutter, Angular 5, NoSQL, Firebase
+
+# Projet Sage
+<i class="fa fa-clock-o"></i> 8 semaines
+<i class="fa fa-user"></i> 4 personne
+
+Développement d’un logiciel nommé SAGE.
+
+Ce logiciel a été développé pour la Maison des Seniors de la ville de Nice.
+
+C'est un outil qui permet le suivi des personnes âgées et isolées, grâce à des appels réguliers. Le logiciel comporte donc : une liste des appels à effectuer, une fiche de suivi complète des bénéficiaires ainsi qu'une zone d’administration.
+
+> C#, ASP&#46;Net 5, SQL, Windows10
+
+# Safe Home
+<i class="fa fa-clock-o"></i> 8 semaines
+<i class="fa fa-user"></i> 4 personne
+
+Solution web permettant à une famille de gérer les tâches ménagères.
+
+- Un compte administrateur (parent) peut affecter des tâches à effectuer aux autres utilisateurs.
+
+- Il s'agit en quelque sorte d'un gestionaire de tâches kaban (à faire, en cours, terminé) dans
+le contexte d'une maison connectée.
+
+Nous avons également intégré le fait qu'une gamelle connectée publie une tâche lorsqu'elle est vide.
+        
+> Angular 5, LoopBack3, NoSQL
