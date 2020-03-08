@@ -6,7 +6,8 @@ Ce Repository a pour objectif de lister et centraliser tous mes repositories, qu
 | Nom                                                                     |     Importance     | Langage           |    Public/Privé    | Contexte          |
 | ----------------------------------------------------------------------- |:------------------:| ----------------- |:------------------:|:----------------- |
 | [Dronizone](https://github.com/AlexBolot/Dronizone)                     | :star::star::star: | Java              | :white_check_mark: | Polytech          |
-| [Explore-ton-musee](https://github.com/AlexBolot/Explore-ton-musee)     |    :star::star:    | Flutter           | :white_check_mark: | Temps libre       |
+| [Explore-ton-musee](https://github.com/AlexBolot/Explore-ton-musee)     |    :star::star:    | Flutter           | :white_check_mark: | Temps libre       | 
+| [Créditrama](https://github.com/AlexBolot/credirama)             |    :star::star:    | Java              | :white_check_mark: | Polytech          | 
 | [IslandProject](https://github.com/AlexBolot/IslandProject)             |    :star::star:    | Java              | :white_check_mark: | Polytech          |
 | [Polygame](https://github.com/AlexBolot/Polygame)                       |    :star::star:    | Flutter + Angular |       :lock:       | Stage 3A          |
 | [Takenoko](https://github.com/AlexBolot/Takenoko)                       |       :star:       | Java              | :white_check_mark: | Polytech          |
@@ -82,6 +83,17 @@ Découverte et exploration d'île générée procéduralement
 - Nombre d'action limité et contrats à respecter
 
 > Java 8, Design Pattern
+
+# Créditrama
+<i class="fa fa-clock-o"></i> 16 semaines
+<i class="fa fa-group"></i> 4 personnes
+
+Projet de gestion bancaire, incluant un monitoring des transactions
+- Une première partie du projet était la mise en place de la banque du monitoring (via Kafka et Elastic Search) ainsi que la création de graphiques pour notre analyste
+- La deuxième période a été dédiée à la résolution de challenges techniques imposés par nos encadrants : désynchronisation du temps de nos serveurs, gestion de plusieurs timezones et récupération des données en cas de crash de la base de données
+
+> java 8, Java Spring, Kafka, Sql, MicroServices
+
 
 # PhotoBooth
 <i class="fa fa-clock-o"></i> 4 semaines
